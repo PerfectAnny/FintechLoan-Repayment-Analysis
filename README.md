@@ -9,10 +9,10 @@ Data Storage: Stored transformed data back into Google BigQuery for centralized 
 Version Control:Managed project version control and collaboration by committing code and documentation to GitHub.
 
 # Key Analyses:
-.  Repayment Trends: Analyzed trends in loan repayment to understand borrower behavior over time.
-.  Impact of Waiver Policy on Repayment: Assessed how the implementation of a waiver policy affected repayment rates.
-.  Repayment Rate per Month: Calculated monthly repayment rates to identify patterns and seasonal effects.
-.  Staff Performance: Evaluated the performance of staff based on the number of loans managed and repayment success rates.
+Repayment Trends: Analyzed trends in loan repayment to understand borrower behavior over time.
+Impact of Waiver Policy on Repayment: Assessed how the implementation of a waiver policy affected repayment rates.
+Repayment Rate per Month: Calculated monthly repayment rates to identify patterns and seasonal effects.
+Staff Performance: Evaluated the performance of staff based on the number of loans managed and repayment success rates.
 
 # Financial Impact:
 . Provided insights into financial impact by correlating repayment trends with overall financial health.
