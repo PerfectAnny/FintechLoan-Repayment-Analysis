@@ -8,7 +8,7 @@ Data Transformation: Utilized dbt (data build tool) for data transformation and 
 Data Storage: Stored transformed data back into Google BigQuery for centralized storage and accessibility.
 Version Control:Managed project version control and collaboration by committing code and documentation to GitHub.
 
-# Key Analyses:
+### Key Analyses:
 Repayment Trends: Analyzed trends in loan repayment to understand borrower behavior over time.
 Impact of Waiver Policy on Repayment: Assessed how the implementation of a waiver policy affected repayment rates.
 Repayment Rate per Month: Calculated monthly repayment rates to identify patterns and seasonal effects.
