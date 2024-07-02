@@ -25,7 +25,7 @@ Data Analysis and Visualization: Derived actionable insights from complex datase
 Version Control and Collaboration: Used GitHub for project management and collaboration.
 
 ### Impact:
-. Data-Driven Decision Making: Enabled data-driven decision-making by providing insights into repayment patterns and trends, contributing to financial planning and strategy.
-. Proficiency in Data Engineering Workflows: Demonstrated proficiency in data engineering workflows from data acquisition to analysis and deployment.
-. Comprehensive Financial Insights: Delivered comprehensive insights into the financial impact of repayment behaviors, the effectiveness of waiver policies, and staff performance, driving 
-  better financial strategies.
+Data-Driven Decision Making: Enabled data-driven decision-making by providing insights into repayment patterns and trends, contributing to financial planning and strategy.
+Proficiency in Data Engineering Workflows: Demonstrated proficiency in data engineering workflows from data acquisition to analysis and deployment.
+Comprehensive Financial Insights: Delivered comprehensive insights into the financial impact of repayment behaviors, the effectiveness of waiver policies, and staff performance, driving 
+better financial strategies.
