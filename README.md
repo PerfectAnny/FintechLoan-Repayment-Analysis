@@ -14,17 +14,17 @@ Impact of Waiver Policy on Repayment: Assessed how the implementation of a waive
 Repayment Rate per Month: Calculated monthly repayment rates to identify patterns and seasonal effects.
 Staff Performance: Evaluated the performance of staff based on the number of loans managed and repayment success rates.
 
-# Financial Impact:
-. Provided insights into financial impact by correlating repayment trends with overall financial health.
-. Helped identify key factors influencing repayment behaviors, aiding in the development of targeted financial strategies.
+### Financial Impact:
+Provided insights into financial impact by correlating repayment trends with overall financial health.
+Helped identify key factors influencing repayment behaviors, aiding in the development of targeted financial strategies.
 
-# Skills Demonstrated:
-. Data Extraction and Loading (ETL): Leveraged Google BigQuery for efficient data handling.
-. SQL Query Optimization: Enhanced data transformation processes using dbt.
-. Data Analysis and Visualization: Derived actionable insights from complex datasets.
-. Version Control and Collaboration: Used GitHub for project management and collaboration.
+### Skills Demonstrated:
+Data Extraction and Loading (ETL): Leveraged Google BigQuery for efficient data handling.
+SQL Query Optimization: Enhanced data transformation processes using dbt.
+Data Analysis and Visualization: Derived actionable insights from complex datasets.
+Version Control and Collaboration: Used GitHub for project management and collaboration.
 
-# Impact:
+### Impact:
 . Data-Driven Decision Making: Enabled data-driven decision-making by providing insights into repayment patterns and trends, contributing to financial planning and strategy.
 . Proficiency in Data Engineering Workflows: Demonstrated proficiency in data engineering workflows from data acquisition to analysis and deployment.
 . Comprehensive Financial Insights: Delivered comprehensive insights into the financial impact of repayment behaviors, the effectiveness of waiver policies, and staff performance, driving 
