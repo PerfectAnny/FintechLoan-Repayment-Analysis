@@ -3,13 +3,22 @@
 Project Description
 
 ## Objective: 
-.  Analyzed a Fintech dataset focusing on loan repayment behaviors and trends to provide actionable insights for financial decision-making.
-.  Data Extraction: Extracted data from the Fintech repayment dashboard and uploaded it to Google BigQuery for further analysis.
-.  Data Transformation: Utilized dbt (data build tool) for data transformation and modeling to enhance data quality and structure. Implemented transformations to aggregate and analyze 
+Analyzed a Fintech dataset focusing on loan repayment behaviors and trends to provide actionable insights for financial decision-making.
+
+## Data Extraction: 
+Extracted data from the Fintech repayment dashboard and uploaded it to Google BigQuery for further analysis.
+.  
+## Data Transformation: 
+Utilized dbt (data build tool) for data transformation and modeling to enhance data quality and structure. Implemented transformations to aggregate and analyze 
    repayment rates per month, total number of employees, and the effect of waiver policy on repayment using SQL queries.
-.  Data Storage: Stored transformed data back into Google BigQuery for centralized storage and accessibility.
-.  Version Control: Managed project version control and collaboration by committing code and documentation to GitHub.
-   Key Analyses:
+   
+## Data Storage: 
+Stored transformed data back into Google BigQuery for centralized storage and accessibility.
+
+## Version Control: 
+Managed project version control and collaboration by committing code and documentation to GitHub.
+   
+## Key Analyses:
 .  Repayment Trends: Analyzed trends in loan repayment to understand borrower behavior over time.
 .  Impact of Waiver Policy on Repayment: Assessed how the implementation of a waiver policy affected repayment rates.
 .  Repayment Rate per Month: Calculated monthly repayment rates to identify patterns and seasonal effects.
